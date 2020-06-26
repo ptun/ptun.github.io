@@ -1,0 +1,76 @@
+<!--# ptun.github.io-->
+<!--1st project to open the door-->
+<DOCTYPE html>
+<html lang="my-MM">
+	<head>
+		<meta charset="utf-8">
+		<title>All about Rete</title>
+        <style>
+            #head1{
+                background-color:aqua;
+                text-align:center;
+            }
+            #bodyBackGround{
+                background-color:beige;
+            }
+        </style>
+	</head>
+	<body id=bodyBackGround>
+        <h1 id= head1>Rete</h1>
+        <img src="https://i.ytimg.com/vi/nPER_vv2SyU/hqdefault.jpg" alt="Cat smiling at you" width="150">
+        <h2>Pages:</h2>
+        <ul>
+            <li><a href="#MisGo">Mission & Goal</a></li>
+            <li id =AbUs><a href="#AbUs">About Us</a></li>
+            <li id=AbFoun><a href="#AbFoun">About Founders</a></li>
+            
+        </ul>
+        <div class= paragra id=divMissionGoal style="background-color:black;color:white;padding:20px;">
+        <h3 id= AbFoun> Mission & Goal</h3>
+        <p title="feel inspired? ^_^">Our mission is "<em>to inspire people to have a better life with the technology</em>" <br>
+        Our goal is to increase the overall GDP of the country by making business easier using technology.</p>
+        </div>
+        <div class= paragra id=divAboutUs>
+            <h3 id=AbUs>About Us</h3>
+            <p title="Cool enought? ^_^">
+                Rete is a startup tech company <strong>based in Myanmar in 2022.</strong><br>
+                It brought Myanmar the latest technology and help to develop Myanmar economic <em>growth sustainably</em>.<br>
+                It is <strong>leading the country and its economy.</strong><br>
+                It has a unique culture which makes it <em>strong and innovative.</em><br>
+                Its culture also influence people and other industries.
+            </p>
+        </div>
+        
+        <img src="IMG_1129.jpeg" alt="Equality and Equity" width="200" >
+        
+        <div class=paragra id=divAboutUs>
+            <h3 id= AbUs> About Founders</h3>
+            <p title="Join Us? ^_^">
+                The company has three founders. They are all passion about building a product which change the way we live.
+                <hr>
+                <table>
+                    <tr>
+                        <th>Name</th>
+                        <th>Job Title</th>
+                        <th>Description</th>
+                    </tr>
+                    <tr>
+                        <td>Pyi Thar Tun</td>
+                        <td>Product Manger</td>
+                        <td>improve better products</td>
+                    </tr>
+                    <tr>
+                        <td>Sai Lao Leng</td>
+                        <td>Marketing Manager</td>
+                        <td>improve product sales</td>
+                    </tr>
+                    <tr>
+                        <td>Arkar Htut Kaung</td>
+                        <td>Software & Hardware Manager</td>
+                        <td>improve better technology tools and cybersecurity</td>
+                    </tr>
+                </table>
+            </p>
+        </div>
+	</body>
+</html>
