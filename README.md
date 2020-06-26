@@ -3,9 +3,9 @@
 <DOCTYPE html>
 <html lang="my-MM">
 	<head>
-		<meta charset="utf-8">
-		<title>All about Rete</title>
-        <style>
+	<meta charset="utf-8">
+	<title>All about Rete</title>
+       	<style>
             #head1{
                 background-color:aqua;
                 text-align:center;
@@ -23,7 +23,6 @@
             <li><a href="#MisGo">Mission & Goal</a></li>
             <li id =AbUs><a href="#AbUs">About Us</a></li>
             <li id=AbFoun><a href="#AbFoun">About Founders</a></li>
-            
         </ul>
         <div class= paragra id=divMissionGoal style="background-color:black;color:white;padding:20px;">
         <h3 id= AbFoun> Mission & Goal</h3>
@@ -40,20 +39,17 @@
                 Its culture also influence people and other industries.
             </p>
         </div>
-        
         <img src="IMG_1129.jpeg" alt="Equality and Equity" width="200" >
-        
         <div class=paragra id=divAboutUs>
             <h3 id= AbUs> About Founders</h3>
-            <p title="Join Us? ^_^">
-                The company has three founders. They are all passion about building a product which change the way we live.
+            <p title="Join Us? ^_^"> The company has three founders. They are all passion about building a product which change the way we live.
                 <hr>
-                <table>
-                    <tr>
-                        <th>Name</th>
-                        <th>Job Title</th>
-                        <th>Description</th>
-                    </tr>
+              <table>
+                <tr>
+                  <th>Name</th>
+                  <th>Job Title</th>
+                  <th>Description</th>
+                </tr>
                     <tr>
                         <td>Pyi Thar Tun</td>
                         <td>Product Manger</td>
