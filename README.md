@@ -21,8 +21,8 @@
         <h2>Pages:</h2>
         <ul>
             <li><a href="#MisGo">Mission & Goal</a></li>
-            <li id =AbUs><a href="#AbUs">About Us</a></li>
-            <li id=AbFoun><a href="#AbFoun">About Founders</a></li>
+            <li><a href="#AbUs">About Us</a></li>
+            <li><a href="#AbFoun">About Founders</a></li>
         </ul>
         <div class= paragra id=divMissionGoal style="background-color:black;color:white;padding:20px;">
         <h3 id= AbFoun> Mission & Goal</h3>
